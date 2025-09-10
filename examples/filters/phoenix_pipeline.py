@@ -1,6 +1,6 @@
 """
 title: Phoenix Filter Pipeline
-author: jia.deng@cloudkitchens.com
+author:  Frank Deng <dengjia@gmail.com>
 date: 2025-09-09
 version: 1.0
 license: MIT
